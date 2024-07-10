@@ -140,8 +140,8 @@
     "resolve.exports": "^2.0.2",
     "rollup-plugin-dts": "^6.1.1",
     "rollup-plugin-esbuild": "^6.1.1",
-    "rollup-plugin-license": "^3.5.1",
-    "sass": "^1.77.6",
+    "rollup-plugin-license": "^3.5.2",
+    "sass": "^1.77.7",
     "sirv": "^2.0.4",
     "source-map-support": "^0.5.21",
     "strip-ansi": "^7.1.0",
@@ -150,7 +150,7 @@
     "tslib": "^2.6.3",
     "types": "link:./types",
     "ufo": "^1.5.3",
-    "ws": "^8.17.1"
+    "ws": "^8.18.0"
   },
   "peerDependencies": {
     "@types/node": "^18.0.0 || >=20.0.0",
